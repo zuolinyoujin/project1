@@ -22,4 +22,8 @@ public class testController {
         System.out.println("update");
         return "hello";
     }
+
+    public void test03(){
+
+    }
 }
