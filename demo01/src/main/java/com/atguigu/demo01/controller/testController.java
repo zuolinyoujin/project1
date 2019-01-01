@@ -15,12 +15,5 @@ public class testController {
         System.out.println("update");
         return "hello";
     }
-    
-    @RequestMapping("/main")
-    public String test02(){
-        System.out.println("test");
-        System.out.println("update");
-        return "hello";
-    }
 
 }
