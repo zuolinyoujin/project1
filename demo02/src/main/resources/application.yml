@@ -1,0 +1,7 @@
+server:
+  port: 8001
+
+# \u5173\u95ED\u4E86springboot\u7684\u9875\u9762\u7F13\u5B58
+spring:
+  thymeleaf:
+    cache: false
