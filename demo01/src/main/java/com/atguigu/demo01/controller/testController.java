@@ -27,7 +27,4 @@ public class testController {
 
     }
 
-    public void test04(){
-
-    }
 }
