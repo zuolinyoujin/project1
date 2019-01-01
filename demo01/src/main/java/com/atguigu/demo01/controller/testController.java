@@ -23,8 +23,4 @@ public class testController {
         return "hello";
     }
 
-    public void test03(){
-
-    }
-
 }
